@@ -1,6 +1,7 @@
 Hi I am Kireeti Nayak.
 Git Lab 
 car XUV 300 
+<<<<<<< HEAD
 Manish gaonkar
 
 King @ 560096
@@ -16,3 +17,6 @@ ejgruqeyur
 [jhhfrf
 ][ofguyxwtfi
 'lwgefyitfo
+=======
+Manish gaonkar
+>>>>>>> parent of 5a87af4 (Added new files and secand commit)
